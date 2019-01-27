@@ -74,6 +74,7 @@ Generator and Discriminator losses during training were plotted as follows.
 ![Loss](https://raw.githubusercontent.com/themousepotato/PokemonGAN/master/images/loss.png?token=AgXlPpKM0ft_hbT8RLKgn0E1pT20hg_4ks5cVvG7wA%3D%3D)
 
 ## Final result
+The following result was generated on running for `1000` epochs with `128` minibatch size using `64x64` images.<br/><br/>
 ![Result](https://raw.githubusercontent.com/themousepotato/PokemonGAN/master/images/result.png?token=AgXlPkfTqHFM-KPvOz2X3UtVYf9TuiJDks5cVvHVwA%3D%3D)
 
 ## Conclusions
