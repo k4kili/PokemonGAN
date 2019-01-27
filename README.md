@@ -71,10 +71,10 @@ Discriminator(
 
 ## Loss during training
 Generator and Discriminator losses during training were plotted as follows.
-![Loss](https://raw.githubusercontent.com/themousepotato/PokemonGAN/master/images/losses.png)
+![Loss](https://raw.githubusercontent.com/themousepotato/PokemonGAN/master/images/loss.png?token=AgXlPpKM0ft_hbT8RLKgn0E1pT20hg_4ks5cVvG7wA%3D%3D)
 
 ## Final result
-![Result](https://raw.githubusercontent.com/themousepotato/PokemonGAN/master/images/result.png)
+![Result](https://raw.githubusercontent.com/themousepotato/PokemonGAN/master/images/result.png?token=AgXlPkfTqHFM-KPvOz2X3UtVYf9TuiJDks5cVvHVwA%3D%3D)
 
 ## Conclusions
 * As everyone says GANs are hard to train.
